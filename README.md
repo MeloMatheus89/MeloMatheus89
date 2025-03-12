@@ -1,4 +1,4 @@
-## Sejam bem-vindos(as) ao meu Perfil do Github
+## 👋Sejam bem-vindos(as) ao meu Perfil do Github
 
 Aqui você conseguirá saber um pouco sobre o meu caminho como programador. Obviamente que eu voltarei aqui para fazer umas atualizações aos poucos.
 
@@ -19,10 +19,10 @@ Comecei estudando JavaScript com foco no Back-end. E aqui não encontrei o meu "
 - Estou disposto a aprender novos Frameworks para deixar a navegabilidade maior
 - Me considero bom o suficiente em lógica de programação
 
-# Curiosidades sobre mim
+# 😄Curiosidades sobre mim
 
 - Sempre gosto de aprender novas tecnologias
-- Não tenho preguiça para ler documentações, do contrário. Me pego lendo documentações que facilitam a minha vida e fico me deliciando com as mesmas por horas à fio.
+- Não tenho preguiça para ler documentações, pelo contrário. Me pego lendo documentações que facilitam a minha vida e fico me deliciando com as mesmas por horas à fio.
 - Sou bilingue
 - Sou considerado por uma parcela de pessoas autodidata
 - Sou apaixonado por Storytelling e gameficação
@@ -30,19 +30,25 @@ Comecei estudando JavaScript com foco no Back-end. E aqui não encontrei o meu "
 - Gosto de ensinar tudo o que eu aprendo. Não acho interessante ficar retendo conhecimento.
 - Possuo boa oratória e comunicação verbal
 - Já tive medo de palco e hoje adoro quando posso fazer abertura ou conclusão dos cursos;
+- Minha cor favorita é o verde oliva (famosa cor de farda do exército)
 
 # Como me encontrar
 
-- Através do LinkedIn: [LinkedIn]https://www.linkedin.com/in/matheus-melo-862b0188/
+- Através do LinkedIn: [LinkedIn](https://www.linkedin.com/in/matheus-melo-862b0188/)
 
 - Através do e-mail: matheusmelo@hotmail.com.br
+
+- Minhas redes sociais: [Linktree](ttps://linktr.ee/matheusmelo89)
+
+<!-- - Coluna do LinkedIn: [] -->
 
 # Portfólio de Front-End Web
 
 - O portfólio está em construção.
 - Trabalhando atualmente em: Formulário
+- Desafio atual: Fazer formulário usando React.js
 - Próximo projeto: Tela de login e senha
-- <!--
+<!--
   **MeloMatheus89/MeloMatheus89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
