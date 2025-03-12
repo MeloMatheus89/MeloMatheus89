@@ -33,8 +33,9 @@ Comecei estudando JavaScript com foco no Back-end. E aqui não encontrei o meu "
 
 # Como me encontrar
 
-Através do LinkedIn: [LinkedIn]https://www.linkedin.com/in/matheus-melo-862b0188/
-Através do e-mail: matheusmelo@hotmail.com.br
+- Através do LinkedIn: [LinkedIn]https://www.linkedin.com/in/matheus-melo-862b0188/
+
+- Através do e-mail: matheusmelo@hotmail.com.br
 
 # Portfólio de Front-End Web
 
