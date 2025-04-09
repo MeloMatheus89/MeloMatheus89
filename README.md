@@ -38,7 +38,7 @@ Comecei estudando JavaScript com foco no Back-end. E aqui não encontrei o meu "
 
 - Através do e-mail: matheusmelo@hotmail.com.br
 
-- Minhas redes sociais: [Linktree](ttps://linktr.ee/matheusmelo89)
+- Minhas redes sociais: [Linktree](https://linktr.ee/matheusmelo89)
 
 <!-- - Coluna do LinkedIn: [] -->
 
