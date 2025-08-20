@@ -44,9 +44,13 @@ Comecei estudando JavaScript com foco no Back-end. E aqui não encontrei o meu "
 
 # Portfólio de Front-End Web
 
+- Filmoteca - Registre e consulte filmes baseados em Título, data de lançamento e gênero. [Veja](https://github.com/MeloMatheus89/biblioteca-filmes);
+  -- O objetivo desse repositório é praticar os verbos HTML usando a biblioteca Axios para fazer a tratativa de um arquivo JSON para ser tratada na tela.
+- Biblioteca de Pensamentos (Memoteka) - [Veja](https://github.com/MeloMatheus89/memoteka) - Registre aqui falas, citações e pensamentos (até mesmo os intrusivos).
+  -- O objetivo desse repositório é praticar os verbos HTML usando a biblioteca Axios para fazer a tratativa de um arquivo JSON para ser tratada na tela.
+
 - O portfólio está em construção.
-- Trabalhando atualmente em: Formulário
-- Desafio atual: Fazer formulário usando React.js
+- Trabalhando atualmente em: Consumindo um CRUD
 - Próximo projeto: Tela de login e senha
 <!--
   **MeloMatheus89/MeloMatheus89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
